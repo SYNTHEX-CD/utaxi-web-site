@@ -24,5 +24,10 @@ h2{
 }
 
 .bolddd {
-  font-weight: 5  00;
+  font-weight: 500;
+}
+
+.toblack {
+  font-weight: 600;
+  font-family: "Lora", serif;
 }
